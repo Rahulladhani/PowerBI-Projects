@@ -1,4 +1,4 @@
-#### Ecommerce Sales Dashboard
+# Ecommerce Sales Dashboard
 ![image](https://github.com/user-attachments/assets/14415beb-748e-4f5c-863f-7425c5eadfba)
 
 I'm excited to present the Madhav Ecommerce Sales Dashboard, built in Power BI to track essential e-commerce metrics and provide insights into sales performance. This interactive dashboard enables users to analyze key metrics like total sales amount, profit, quantity, and average order value across different states, payment modes, and customer segments.
@@ -17,4 +17,5 @@ I'm excited to present the Madhav Ecommerce Sales Dashboard, built in Power BI t
 
 ### Technologies Used
 Power BI for data visualization
+
 DAX for calculated measures and insights
