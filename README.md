@@ -16,9 +16,9 @@ I'm excited to present the Madhav Ecommerce Sales Dashboard, built in Power BI t
 
 
 ### Technologies Used
-Power BI for data visualization
+• Power BI for data visualization
 
-DAX for calculated measures and insights
+• DAX for calculated measures and insights
 
 ### Conclusion
 The Madhav Ecommerce Sales Dashboard demonstrates the power of data visualization in driving business insights and improving decision-making. By presenting real-time sales data, profit breakdowns, and trend analysis in a single view, this dashboard empowers stakeholders to make informed choices and optimize business performance. I’m thrilled to share this project, and I hope it showcases the potential of Power BI for transforming raw data into actionable insights. Feel free to connect if you’re interested in data visualization or have any questions about the dashboard!
