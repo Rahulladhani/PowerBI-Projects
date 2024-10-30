@@ -1,7 +1,9 @@
+### Madhav Ecommerce Sales Dashboard
+
 ![image](https://github.com/user-attachments/assets/14415beb-748e-4f5c-863f-7425c5eadfba)
 
-Madhav Ecommerce Sales Dashboard
-I'm excited to share my latest Power BI project: the Madhav Ecommerce Sales Dashboard. This interactive dashboard is crafted to provide in-depth insights into an e-commerce business's performance by tracking and analyzing key sales metrics. It's designed to offer a quick, actionable overview for decision-makers and data enthusiasts alike, covering everything from regional performance to customer behaviors.
+**I'm excited to share my latest Power BI project: **
+the Madhav Ecommerce Sales Dashboard. This interactive dashboard is crafted to provide in-depth insights into an e-commerce business's performance by tracking and analyzing key sales metrics. It's designed to offer a quick, actionable overview for decision-makers and data enthusiasts alike, covering everything from regional performance to customer behaviors.
 
 Project Overview
 The Madhav Ecommerce Sales Dashboard centralizes essential sales information in one place, allowing users to drill down into the specifics of business operations. It includes powerful visualizations that track the total sales amount, profit, quantity, and average order value across multiple segments, such as states, payment modes, and customer categories. With this dashboard, users can gain a holistic understanding of the business's performance and identify areas for improvement.
