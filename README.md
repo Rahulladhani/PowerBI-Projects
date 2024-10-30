@@ -16,6 +16,6 @@ I'm excited to present the Madhav Ecommerce Sales Dashboard, built in Power BI t
 
 
 ### Technologies Used
-Power BI for data visualization
+**Power BI for data visualization**
 
 DAX for calculated measures and insights
